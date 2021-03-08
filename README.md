@@ -51,6 +51,11 @@ The figure below illustrates this behavior using an example.
 * Ez a szöveg felsorolás
 	> Harmadik szöveg
 	
+<<<<<<< HEAD
 	nincs semmi hiba
+=======
+	
+	nincs hiba
+>>>>>>> branch-B
 
 
