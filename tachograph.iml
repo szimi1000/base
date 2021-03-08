@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/../../../Downloads/jar_files/failureaccess-1.0.1.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../../Downloads/jar_files/error_prone_annotations-2.3.4.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../../Downloads/jar_files/elemental2-promise-1.0.0-RC1.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../../Downloads/jar_files/checker-qual-3.5.0.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../../Downloads/jar_files/base-1.0.0-RC1.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../../Downloads/jar_files/guava-30.1-jre.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../../Downloads/jar_files/j2objc-annotations-1.3.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../../Downloads/jar_files/jsinterop-annotations-1.0.2.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../../Downloads/jar_files/jsr305-3.0.2.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="jar://$MODULE_DIR$/../../../Downloads/jar_files/elemental2-promise-1.0.0-RC1.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../../Downloads/jar_files/base-1.0.0-RC1.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../../Downloads/jar_files/guava-gwt-30.1-jre.jar!/" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/../../../Downloads/jar_files" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="file://$MODULE_DIR$/../../../Downloads/jar_files" />
+        </SOURCES>
+        <jarDirectory url="file://$MODULE_DIR$/../../../Downloads/jar_files" recursive="false" />
+        <jarDirectory url="file://$MODULE_DIR$/../../../Downloads/jar_files" recursive="false" type="SOURCES" />
+      </library>
+    </orderEntry>
+  </component>
+</module>

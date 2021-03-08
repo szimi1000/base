@@ -1,3 +1,4 @@
+  
 language: java
 install: skip
 
@@ -6,8 +7,5 @@ dist: trusty
 jdk: oraclejdk8
 
 script:
-  - ./gradlew build --scan -s
-buildScan {
-  licenseAgreementUrl = "https://gradle.com/terms-of-service"
-  licenseAgree = "yes"
-}
+  - ./gradlew build
+  - ./gradlew test
