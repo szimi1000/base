@@ -50,5 +50,3 @@ The figure below illustrates this behavior using an example.
 **Ez a szöveg vastagbetűs**
 * Ez a szöveg felsorolás
 	> Harmadik szöveg
-
-
